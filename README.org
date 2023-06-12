@@ -1,0 +1,10 @@
+* http-parse
+
+An HTTP protocol parser in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/orthecreedence/http-parse.git   |
+| commit  | adf597b  |
+| systems | http-parse |
+|---------+-------------------------------------------|
+
